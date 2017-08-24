@@ -1,0 +1,13 @@
+Github and Gitkraken used together are very powerful tools for versioning your files and software. Although It's a great tool and has many benefits
+I think you may have developed an unhealthy obsession with github. One of main features is being able to store and commit files to your local drive and then painlessly upload
+it to their servers. I'm sure I'm not alone when I say that I'm worried about you Anthony, first it's github and then you moved on to gitkraken for the useful and easy to
+learn interface, what's next? Octocat! I mean I understand where you're coming from, the ability that gitKraken has to resolve conflicts between merging files to make sure that
+you keep all of your important date is positively tantalizing.
+You need help Anthony, I'm sure if you were to talk to Marty he'd be more than happy to explain some of the downsides to using github, such as not being able to upload a file
+more than 5MB without it crashing and burning. Anthony, you're making your students write a 500 page report on a versioning software program, that's not normal but when you're 
+hooked on github it probably seems like a good idea. I know how to use git, most of us in the sophomore program have been using it for about a year now. I should be working on
+the older and little brother redoing the topology, giving them clothes, making sure they have enough geometry around the face and other vital areas to make sure animation
+goes smooth. I just don't know what to say. Github and gitKraken are excellent tools for keeping track of your files and sharing with our conglomerate of sophomores. 
+But we need you Anthony, we need you back. 
+I’m taking 17 credits right now, but because of the program it feels like 30, so I’m gonna go ahead and start working on the models for the movie because I feel at this
+point it’s a lot more helpful than writing this report.
