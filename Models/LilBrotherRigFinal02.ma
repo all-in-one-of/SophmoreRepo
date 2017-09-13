@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
-//Name: LilBrotherRigFinal.ma
-//Last modified: Wed, Sep 13, 2017 03:46:05 PM
+//Name: LilBrotherRigFinal02.ma
+//Last modified: Wed, Sep 13, 2017 03:47:39 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -36822,4 +36822,4 @@ connectAttr "Skin.msg" ":defaultShaderList1.s" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "|OB|Shirt|ShirtShape.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "groupId20.msg" ":initialShadingGroup.gn" -na;
-// End of LilBrotherRigFinal.ma
+// End of LilBrotherRigFinal02.ma
