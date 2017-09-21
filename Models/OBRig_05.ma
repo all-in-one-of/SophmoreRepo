@@ -1,6 +1,6 @@
 //Maya ASCII 2017ff05 scene
 //Name: OBRig_05.ma
-//Last modified: Thu, Sep 21, 2017 03:52:15 PM
+//Last modified: Thu, Sep 21, 2017 03:53:25 PM
 //Codeset: 1252
 requires maya "2017ff05";
 currentUnit -l centimeter -a degree -t film;
@@ -13,13 +13,13 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "546C077D-406B-55FA-40DB-15A792481F8F";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -1.3635087199474181 12.943553516404958 33.319219977434315 ;
-	setAttr ".r" -type "double3" 1788.8616426994399 -100084.99999999625 0 ;
+	setAttr ".t" -type "double3" 2.0850691444273384 9.5178599068189502 23.157932887726115 ;
+	setAttr ".r" -type "double3" 1791.2616426994989 -100075.79999999749 4.9829986461574957e-017 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "7E27FED8-4A03-85C0-4E37-7C837D701059";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 34.725984389447532;
+	setAttr ".coi" 23.824683029418885;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
