@@ -295,6 +295,7 @@
     <dwg name="22" scaleFactor="1"/>
     <dwg name="23" scaleFactor="1"/>
     <dwg name="24" scaleFactor="1"/>
+    <dwg name="25" scaleFactor="1"/>
    </drawings>
   </element>
  </elements>
@@ -311,7 +312,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="08d43d79f9a00b0a" nbframes="134">
+  <scene name="Top" id="08d43d79f9a00b0a" nbframes="105">
    <columns>
     <column type="0" name="Drawing" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="54" val="1" id="1"/>
@@ -647,6 +648,7 @@
      <elementSeq exposures="75" val="23" id="7"/>
      <elementSeq exposures="76" val="20" id="7"/>
      <elementSeq exposures="77" val="24" id="7"/>
+     <elementSeq exposures="78" val="25" id="7"/>
     </column>
    </columns>
    <options>
