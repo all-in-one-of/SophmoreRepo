@@ -11,3 +11,4 @@ Solid    LB_Red                     0x08d9d38b139c78f4 148  44   5 255
 Solid    LB_Black                   0x08d9d38b139c7eb5   0   0   0 255
 Solid    Eye                        0x08d9d38b139caa16  21  32  60 255
 Solid    Eye_White                  0x08d9d38b139caa99 255 255 255 255
+Solid    Mouht                      0x08da50c6a386048a  70   0   0 255
