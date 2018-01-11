@@ -401,6 +401,7 @@
     <dwg name="42" scaleFactor="1"/>
     <dwg name="43" scaleFactor="1"/>
     <dwg name="44" scaleFactor="1"/>
+    <dwg name="45" scaleFactor="1"/>
    </drawings>
   </element>
   <element id="10" elementName="L_Leg" elementFolder="L_Leg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -671,7 +672,7 @@
      <elementSeq exposures="103" val="50" id="1"/>
      <elementSeq exposures="104" val="51" id="1"/>
     </column>
-    <column type="0" name="ATV-08D43D79F9A01027" display="false" displayOrder="0" width="100" anonymous="true" id="2">
+    <column type="0" name="ATV-08D43D79F9A01027" displayOrder="0" width="100" anonymous="true" id="2">
      <elementSeq exposures="1" val="1" id="2"/>
      <elementSeq exposures="2" val="2" id="2"/>
      <elementSeq exposures="3" val="3" id="2"/>
@@ -1012,6 +1013,7 @@
      <elementSeq exposures="98" val="45" id="8"/>
     </column>
     <column type="0" name="ATV-08DA50C6A38DE132" displayOrder="0" width="100" anonymous="true" id="9">
+     <elementSeq exposures="55" val="45" id="9"/>
      <elementSeq exposures="56" val="1" id="9"/>
      <elementSeq exposures="57" val="2" id="9"/>
      <elementSeq exposures="58" val="3" id="9"/>
